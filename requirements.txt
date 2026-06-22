@@ -4,3 +4,4 @@ earthengine-api
 geemap==0.34.3
 python-box==7.1.1
 geopandas
+setuptools
