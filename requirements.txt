@@ -1,4 +1,6 @@
-streamlit>=1.35.0
+streamlit
 pandas
-earthengine-api>=0.1.400
-geemap>=0.32.0
+earthengine-api
+geemap==0.32.1
+ipython<8.0
+setuptools
